@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-vayfha.pulaucuansite.cfd/sitemap.xml
